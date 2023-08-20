@@ -7,3 +7,4 @@ squash merge
 
 Test
 menyenyeeeeeeeh ahyug ahyug ahgyug
+ini adalah text
